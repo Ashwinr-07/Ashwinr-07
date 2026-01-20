@@ -54,14 +54,6 @@ Architected GPU-accelerated distributed inference pipelines using Ray and Kubern
 **Domains**
 Big Data | Distributed Computing | Machine Learning | Parallel Processing | Cloud Infrastructure
 
-## GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-07&show_icons=true&locale=en&layout=compact&theme=default" alt="ashwinr-07" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinr-07&show_icons=true&locale=en&theme=default" alt="ashwinr-07" /></p>
-
 
 ## Connect
 
