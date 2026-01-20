@@ -62,7 +62,6 @@ Big Data | Distributed Computing | Machine Learning | Parallel Processing | Clou
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinr-07&show_icons=true&locale=en&theme=default" alt="ashwinr-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinr-07&theme=default" alt="ashwinr-07" /></p>
 
 ## Connect
 
