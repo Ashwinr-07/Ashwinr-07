@@ -1,33 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ashwin Ragupathy</h1>
-<h3 align="center">Computer Science Senior | PES University</h3>
+# Ashwin Ragupathy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinr-07&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinr-07" /> </p>
+**AI Engineer | Distributed Systems | Computer Vision**
 
-<p align="left"> <a href="https://twitter.com/ragupathyashwin" target="blank"><img src="https://img.shields.io/twitter/follow/ragupathyashwin?logo=twitter&style=for-the-badge" alt="ragupathyashwin" /></a> </p>
-
-- 🔭 I’m currently working on **ChromAdapt**
-
-- 🌱 I’m currently learning **GoLang, Large Language Models**
-
-- My top skills are **computer vision and distributed systems.**
-
-- 📫 How to reach me **ashwin.ragupathy@gmail.com**
-
-- Check out my resume [https://drive.google.com/file/d/1D0v2s8BFgjYTDezCUClGA9WhzYH3Mgmu/view?usp=share_link](https://drive.google.com/file/d/1D0v2s8BFgjYTDezCUClGA9WhzYH3Mgmu/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ragupathyashwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragupathyashwin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwin-ragupathy-750752170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin-ragupathy-750752170" height="30" width="40" /></a>
-<a href="https://instagram.com/ashwinr_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwinr_07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ashwinr_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashwinr_07" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=ashwinr-07&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinr-07" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-07&show_icons=true&locale=en&layout=compact" alt="ashwinr-07" /></p>
+AI Engineer at Docnexus AI building enterprise-grade multi-agentic NLP systems for healthcare data exploration. I specialize in distributed computing, machine learning infrastructure, and building scalable data pipelines.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinr-07&show_icons=true&locale=en" alt="ashwinr-07" /></p>
+- Currently working on **multi-agentic AI systems** and **large-scale healthcare analytics**
+- Research interests in **computer vision** and **distributed systems**
+- Published researcher with work presented at IEEE and ACM conferences
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinr-07&" alt="ashwinr-07" /></p>
+## Experience
+
+**AI Engineer** @ Docnexus AI (Seattle, WA - Remote)
+Building enterprise NLP research systems processing 35+ TB healthcare data with 90%+ accuracy in natural language to SQL generation.
+
+**Technology Intern** @ American Express
+Developed Cloud Core, an IAM-enabled administrative portal with GenAI features for 50+ global teams.
+
+**Research Intern** @ India Urban Data Exchange, IISc
+Architected GPU-accelerated distributed inference pipelines using Ray and Kubernetes for real-time traffic analysis.
+
+## Publications
+
+- **ChromAdapt: A Dual Clustering Framework for Personalized Enhancement of CVD Images** - ICMIP 2025, Japan
+- **Examining Strategies for Correcting Color Vision Deficiency** - IEEE SEAI 2024, China
+- **A Study on Recognizing Handwritten Mathematical Expressions** - IEEE InCCCS 2024 *(Best Presenter Award)*
+
+## Skills
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks & Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Domains**
+Big Data | Distributed Computing | Machine Learning | Parallel Processing | Cloud Infrastructure
+
+## GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-07&show_icons=true&locale=en&layout=compact&theme=default" alt="ashwinr-07" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinr-07&show_icons=true&locale=en&theme=default" alt="ashwinr-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinr-07&theme=default" alt="ashwinr-07" /></p>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-ragupathy-750752170)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashwin.ragupathy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashwinr-07)
